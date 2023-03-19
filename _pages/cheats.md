@@ -66,4 +66,5 @@ Credit to [Ash072](https://forums.thesims.com/en_us/discussion/784019/quick-list
 * `freerealestate on` - Buy lots for free.
 * `bb.enablefreebuild` - Enter build mode at any time, e.g. at the Doctor's Clinic, or at the house of a sim you're visiting
 * `bb.ignoregameplayunlocksentitlement` - Unlocks locked career items
-* `bb.showhiddenobjects` - Unlocks all the hidden build objects
+* `bb.showhiddenobjects` - Unlocks hidden build objects
+* `bb.showLiveEditObjects` - Unlocks even more hidden build objects

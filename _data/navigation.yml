@@ -33,6 +33,8 @@ build:
           url: /build/bed 
         - title: "Kitchen"
           url: /build/kitchen
+        - title: "Dining"
+          url: /build/dining
         - title: "Study"
           url: /build/study
         - title: "Garden"
