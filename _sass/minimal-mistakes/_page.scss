@@ -89,7 +89,7 @@ body {
 
 .page__content {
   h2 {
-    padding-bottom: 0.5em;
+    padding-bottom: 0.3em;
     border-bottom: 1px solid $border-color;
   }
 
@@ -114,6 +114,10 @@ body {
   li,
   dl {
     font-size: 1em;
+  }
+
+.content p, .content li{
+    font-size: $type-size-7;
   }
 
   /* paragraph indents */
@@ -142,7 +146,7 @@ body {
   :not(pre) > code {
     padding-top: 0.1rem;
     padding-bottom: 0.1rem;
-    font-size: 0.8em;
+    font-size: 1em !important;
     background: $code-background-color;
     border-radius: $border-radius;
 
