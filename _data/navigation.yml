@@ -12,7 +12,7 @@ main:
   #   url: /sitemap/
 
 
-  build:
+build:
   - title: Getting Started
     children:
       - title: "Intro"
