@@ -25,7 +25,28 @@ build:
         url: /build/cheats
       - title: "General Tips"
         url: /build/general
-  - title: Ideas by Room
+  - title: Building Details
     children:
         - title: "Bathroom"
           url: /build/bath
+        - title: "Bedroom"
+          url: /build/bed 
+        - title: "Kitchen"
+          url: /build/kitchen
+        - title: "Study"
+          url: /build/study
+        - title: "Garden"
+          url: /build/garden
+        - title: "Roof"
+          url: /build/roof
+        - title: "Facade"
+          url: /build/facade
+        - title: "Misc. Details"
+          url: /build/misc
+  - title: Bigger Ideas for Building
+    children:
+        - title: "House Styles"
+          url: /build/styles
+        - title: "Room Ideas"
+          url: /build/rooms
+
