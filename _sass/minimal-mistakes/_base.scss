@@ -66,7 +66,7 @@ small,
 }
 
 p {
-  margin-bottom: 1.3em;
+  margin-bottom: 1em;
 }
 
 u,
@@ -197,7 +197,7 @@ figure {
   -webkit-box-align: start;
   align-items: flex-start;
   flex-wrap: wrap;
-  margin: 2em 0;
+  margin: 0.5em 0;
 
   img,
   iframe,
@@ -247,9 +247,10 @@ figure {
 
 figcaption {
   margin-bottom: 0.5em;
+  margin-top: -0.5em;
   color: $muted-text-color;
   font-family: $caption-font-family;
-  font-size: $type-size-6;
+  font-size: $type-size-8;
 
   a {
     -webkit-transition: $global-transition;
@@ -309,6 +310,9 @@ nav {
     margin-top: 0;
   }
 }
+li li li li { font-size: 100%; } 
+li li li { font-size: 100%; }
+li li { font-size: 100%; }
 
 /*
    Global animation transition
