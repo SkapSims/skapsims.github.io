@@ -20,6 +20,7 @@ Videos for complete beginners that show how to use basic build cheats and/or hot
 * ![img](/assets/img/emoji/ig.png) [@rollos_floorplans - draws floorplans for The Sims](https://www.instagram.com/rollos_floorplans/?hl=en) 
 * ![img](/assets/img/emoji/yt.png) [paszerine - How to Build Better Floor Plans](https://www.youtube.com/watch?v=LPiM8xzzom0)
 * [Archive of Sears Homes](http://www.searsarchives.com/homes/byimage.htm)
+* [Grid Planning Templates from paszerine](https://ko-fi.com/post/Grid-Planning-Templates-for-Sims-4-Builders-U7U67HJRA)
 
 ## Creators
 * ![img](/assets/img/emoji/yt.png) [Mars Plays](https://www.youtube.com/@marsplays4853) has a bunch of useful building tutorials  
