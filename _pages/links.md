@@ -1,4 +1,4 @@
----
+  ---
 permalink: /build/links
 sidebar:
   nav: "build"
@@ -26,3 +26,6 @@ Videos for complete beginners that show how to use basic build cheats and/or hot
 * ![img](/assets/img/emoji/yt.png) [Mars Plays](https://www.youtube.com/@marsplays4853) has a bunch of useful building tutorials  
 * ![img](/assets/img/emoji/yt.png) [Bear and Bun](https://www.youtube.com/@BearandBun/videos) has no CC build ideas
 * ![img](/assets/img/emoji/yt.png) [DoctorAshley](https://www.youtube.com/@DoctorAshley) has a bunch of quick Shorts
+
+## Misc
+* [Colour Lovers](https://www.colourlovers.com/) can give inspiration for colour schemes
